@@ -1,0 +1,24 @@
+
+body {
+    background-color: papayawhip;
+
+}
+
+h2 {
+    position: relative;
+    left: 2rem;
+}
+
+
+
+section div {
+    max-width: 90%;
+    background-color: #00ccff;
+    position: relative;
+    left: 4rem;
+}
+
+section div p, h3 {
+    position: relative;
+    left: 0.5rem;
+}

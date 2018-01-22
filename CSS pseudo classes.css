@@ -1,0 +1,17 @@
+
+a:visited {
+    color: teal;
+    font-style: italic;
+}
+
+li:hover {
+    background-color: wheat;
+}
+
+input:focus {
+    background-color: #00ccff;
+}
+
+p:active {
+    color: green;
+}

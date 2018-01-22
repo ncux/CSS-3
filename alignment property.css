@@ -1,0 +1,30 @@
+
+h1 {
+    text-align: center;
+    background-color: #7D775C;
+    width: 50%;
+}
+
+h2 {
+    text-align: right;
+    background-color: teal;
+}
+
+h3 {
+    line-height: 1.2;
+    background-color: yellow;
+}
+
+h4 {
+    background-color: blue;
+    height: 200px;
+    line-height: 4;
+
+}
+
+p {
+    text-align: justify;
+    background-color: wheat;
+    padding: 2rem;
+    width: 50%;
+}

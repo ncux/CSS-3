@@ -1,0 +1,49 @@
+
+header, footer {
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    background-color: deeppink;
+}
+
+header p {
+    height: 50px;
+    border-bottom: 1px solid white;
+    margin-bottom: 2px;
+}
+
+header h1 {
+    max-width: 50%;
+    text-align: center;
+    height: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid white;
+}
+
+section {
+    max-width: 75%;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section h2 {
+    text-align: center;
+    padding: 30px;
+    max-width: 22.5%;
+   }
+
+section article {
+    margin: 50px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+
+section article h3 {
+    text-align: left;
+}

@@ -1,0 +1,43 @@
+
+body {
+    background-color: #ffff99;
+    margin-left: 2rem;
+}
+
+h1 {
+    font-family: "Impact", sans-serif;
+    font-weight: 700;
+    font-size: 4rem;
+    color: #ff6600;
+    padding: 0.5rem;
+    border: 2px solid orangered;
+
+}
+
+h2 {
+    background-color: #ff6600;
+    color: #ffff99;
+    font-family: "Courier New";
+    font-size: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+p {
+    padding: 0.5rem;
+    border: 2px dotted brown;
+}
+
+ol {
+    background-color: #ffcc00;
+   padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+
+    }
+
+li {
+    font-family: Helvetica;
+    color:  #ffff99;
+    margin: 0.7rem;
+}

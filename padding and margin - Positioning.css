@@ -1,0 +1,23 @@
+
+h1 {
+    background-color: red;
+    margin: auto;
+    width: 50%;
+}
+
+p {
+    background-color: orange;
+    width: 70%;
+}
+
+a {
+    display: block;
+    width: 100px;
+    margin: auto;
+}
+
+div {
+    background-color: teal;
+    width: 50%;
+    margin: auto;
+}
